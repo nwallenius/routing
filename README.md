@@ -1,1 +1,1 @@
-This is React app called routing (React router).
+This is React Router exercise. The name of the app is 'routing'.
